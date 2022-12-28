@@ -1,0 +1,32 @@
+
+
+    .dados{
+        padding: 0 4em;
+        margin-bottom: 10em;
+        display: flex;
+        justify-content: space-evenly ;
+    }
+
+    .dados__itens{
+        padding-left: 2em;
+    }
+
+    .dados__itens h1{
+        font-size: 60px;
+        font-weight: 600;
+        color: var(--vermelho);
+    }
+
+    .dados__itens h3{
+        font-size: 18px;
+        font-weight: 500;
+        padding: 0.5em;
+    }
+
+    .dados__itens p{
+        font-size: 16px;
+        font-weight: 400;
+        color: var(--cinza);
+        display: inline-block;
+        width: 270px;
+    }

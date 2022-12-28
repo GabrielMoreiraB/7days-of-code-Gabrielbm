@@ -1,0 +1,24 @@
+
+
+    .sobrenos{
+        text-align: center;
+        margin: 6em 25em;
+    }
+
+    .sobrenos span{
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--vermelho);
+    }
+
+    .sobrenos__titulo{
+        font-size: 48px;
+        font-weight: 600;
+        padding: 0.5em 0;
+    }
+
+    .sobrenos__texto{
+        font-size: 18px;
+        font-weight: 400;
+        color: var(--cinza);
+    }

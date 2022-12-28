@@ -1,0 +1,35 @@
+
+
+.salarios__area{
+    font-size: 20px;
+    font-weight: 500;
+    padding: 2em;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.salarios_profissao{
+    width: 60%;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 1em;
+    margin: 0 auto 1em auto ;
+}
+
+.salarios__profissao-titulo{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 1em;  
+     
+}
+
+.salarios__profissao-texto{
+    display: flex;
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--cinza);
+}
+
+.salarios__profissao-texto p {
+    padding-right: 32px ;
+}

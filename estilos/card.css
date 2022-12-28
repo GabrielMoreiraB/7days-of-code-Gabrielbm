@@ -1,0 +1,32 @@
+
+.card{
+    margin: 2em 6em;
+    padding: 4em;
+    background-color:rgba(196, 25, 25, 0.03) ;
+    text-align: center;
+}
+
+.card__texto{
+    font-weight: 600;
+    font-size: 16px;
+    color: var(--vermelho);
+}
+
+.card__titulo{
+    font-weight: 500;
+    font-size: 36px;
+    padding-bottom: 1em;
+    padding-top: 0.5em;
+}
+
+.card__perfil-nome{
+    font-weight: 500;
+    font-size: 16px;
+    padding: 1em;
+}
+
+.card__perfil-cargo{
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--cinza);
+}
